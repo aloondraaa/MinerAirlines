@@ -110,6 +110,7 @@ public class Menus {
         System.out.println("\n1. AutoPurchaser 10K");
         System.out.println("\n2. AutoPurchaser 100K");
         System.out.println("\n3. AutoPurchaser 400K");
+        System.out.println("\n4. AutoPurchaser 800K");
         System.out.println("\nIf you would like to log out enter 'EXIT'");
         System.out.println("-----------------------------------------------------------------");
     }

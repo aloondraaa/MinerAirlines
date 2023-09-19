@@ -424,6 +424,8 @@ public class CustomerEmployeeAccess {
                                     fileName = "AutoPurchaser100k.csv";
                                 } else if (autoPurchaserSelection == 3) {
                                     fileName = "AutoPurchaser400k.csv";
+                                } else if (autoPurchaserSelection == 4) {
+                                    fileName = "AutoPurchaser800k.csv";
                                 }
 
                                 AutoPurchase.autoPurchaseTickets(fileName, flights, people, writer);
